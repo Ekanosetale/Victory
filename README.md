@@ -28,3 +28,15 @@ Lastly on the task, to highlight the employees whose names began with the letter
 ![](task3.jpg)
 Summarily, we can see that of the seven(7) Freelancing employees, three of the earned below the threshold of $10000. Also only two employees’ have they began with the letter “E”. Lastly contract and Freelancing employees’ earned the highest salary of $25000.
 In conclusion, I want to recommend that the salary of the part-time staff be reviewed to match that of other staff in the company.
+
+# TASK 2
+..............
+The second task carrying out a business analysis of the sales report of an imaginary company. The following problems were to be resolved using the data set:
+-	The total revenue and profit generated.
+-	The average revenue and units sold for every order.
+-	The total discount given is $.
+-	The total number of sales recorded.
+-	The highest profit generated.
+-	Create a column named ‘sales range’, and return High Sales’ if the sales value is above average, otherwise. Return ’Low Sales.
+-	
+
