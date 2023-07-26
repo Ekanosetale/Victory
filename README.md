@@ -7,3 +7,4 @@ According to the course requirement in the data analysis cohort 3, 2023  which i
 -Department
 -Salary
 -Job type
+![](TheTable)
