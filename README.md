@@ -23,8 +23,8 @@ Show the following from the table generated:
 As regards the first activity, I added a filter function to the employees’ table and filtered the job type column to Freelancer only. Among the freelancers, I had to highlight in red those whose salaries were above the threshold of  $10000 as shown below.
 ![](task1.jpg)
 Also for the next activity, I split the employees’ full names into first and last name columns using the Delimiter function on the data tool Excel ribbon. After this, I checked for duplicate using the duplicate function and fortunately, there was none as revealed by the table below.
-![](task4.jpg)
+![](task5.jpg)
 Lastly on the task, to highlight the employees whose names began with the letter “E”, I used the filter function again to filter to only the employees whose names are thus described above and highlighted them using the yellow ink as displayed below.
-![](task3.pjg)
+![](task3.jpg)
 Summarily, we can see that of the seven(7) Freelancing employees, three of the earned below the threshold of $10000. Also only two employees’ have they began with the letter “E”. Lastly contract and Freelancing employees’ earned the highest salary of $25000.
 In conclusion, I want to recommend that the salary of the part-time staff be reviewed to match that of other staff in the company.
