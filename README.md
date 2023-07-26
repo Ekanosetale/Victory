@@ -45,8 +45,8 @@ The second task carrying out a business analysis of the sales report of an imagi
 # A View of The Data Set
 ![](task2.02.jpg)
  # Analysis of the Problem
-First of all, cleansed the data of any duplicate and empty spaces using the Remove Duplicate Function.
 ![](task2.0.jpg)
+First of all, cleansed the data of any duplicate and empty spaces using the Remove Duplicate Function.
 And for the average revenue and units sold for every order, the Average Function came in handy. So I got the average Gross Sales and Unit Sold using the Average Function.
 Also, I got Calculated the Total  Discount given in dollars ($) using the Sum Function to add up the Discount Column. 
 Again to get the Total number of Sales recorded, I used the Count Function to count the  Sales Column.
@@ -74,7 +74,7 @@ Using the same Sales Data as in Task 2 above, Calculate:
  6. Use of VLOOKUP
  
   # Analysis of the Problem
-  ![](task3.0.jpg)
+  ![](TASK.jpg)
 To get the average revenue generated from each sale of ‘Paseo’, I applied a filter to the table, and on the Product column, I filtered to only Paseo and used the Average function to get the value from the Gross sales column.
 Also, I calculated the number of sales made in the Government and Midmarket segments by using the COUNTIF Function for each of them separately and added their values afterward.
 Again I obtained the total revenue generated from the sales of ‘Montana’ in Canada alone By using the SUMIFS Function. 
